@@ -1,0 +1,9 @@
+# Ignore node_modules
+/node_modules
+
+# Ignore environment variable files
+.env
+
+# Ignore config folder (if you don't want to push it)
+# If you want to only exclude certain files, modify this rule accordingly
+/config
